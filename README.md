@@ -11,6 +11,9 @@
 - 📫 How to reach me ...
     - Please Contact to me about iskaid0425@gmail.com or comment to this. 
 
+- My Forcus Language
+    - Python, C and Swift
+    - I hope make to iOS application (Money Manager!!)
 <!---
 Alexis8588/Alexis8588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
