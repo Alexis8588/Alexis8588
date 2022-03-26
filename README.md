@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Alexis8588
 
+- I try to 1 day 1 commit.
+    - at least update already file. -> this is make my logical level? (I don't know exactly word about this. I will check and update)
+
 - 👀 I’m interested in ...
     - Mathmatics & Computer Science but My major is Mathmatics & Mechanical Engineering
     - Once upon a time. I found my hobby is not Mechanical. only Methmatics.
