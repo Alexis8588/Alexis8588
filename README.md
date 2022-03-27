@@ -19,7 +19,8 @@
     - I hope make to iOS application (Money Manager!!)
 
 - Now
-    - Start App programming (name is secret!!)
+    - Start App programming
+    - DL\ML company... want to go...
 <!---
 Alexis8588/Alexis8588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
