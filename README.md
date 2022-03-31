@@ -23,7 +23,7 @@
 
 - Now
     - Start App programming (iOS version)
-    - DL\ML company... want to go... 
+    - DL\ML company... want to go..
 <!---
 Alexis8588/Alexis8588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
