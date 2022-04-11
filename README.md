@@ -20,10 +20,9 @@
 - My Forcus Language
     - Python, C and Swift
     - I hope make to iOS application (Money Manager!!)
-<!---
-Alexis8588/Alexis8588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://knotty-starfish-76f.notion.site/Michael-99a41bd28cc44d5d95ae8faff7ec0006">My Notion's Portfolio</a> <br>
+
 
 My old git address <br>
 https://github.com/michael85-dev/michael85-dev/blob/main/README.md
