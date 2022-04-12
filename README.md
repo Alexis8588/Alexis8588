@@ -21,7 +21,10 @@
     - Python, C and Swift
     - I hope make to iOS application (Money Manager!!)
 
+My Profile<br>
 <a href="https://knotty-starfish-76f.notion.site/Michael-99a41bd28cc44d5d95ae8faff7ec0006">My Notion's Profile</a> <br>
+<br>
+My Portfolio<br>
 <a href="https://knotty-starfish-76f.notion.site/95164bf46eaf4918a90f519806f8709b">My Personal Portfolio of Mechanical Engineering</a> <br>
 <a href="https://knotty-starfish-76f.notion.site/f8b6a771f3374ba98a0f5feafcd8254a">My Personal Portfolio of Programming</a> <br>
 
