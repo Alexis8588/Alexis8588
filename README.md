@@ -30,3 +30,8 @@ My Portfolio<br>
 
 My old git address <br>
 https://github.com/michael85-dev/michael85-dev/blob/main/README.md
+
+Now I'm in charged DataFlow.
+DATAFLOW is AI company until 2018.
+Not yet ready Technology to me about AI engineer. 
+But I will ready and show you
