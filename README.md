@@ -35,5 +35,3 @@ Now I'm in charged DataFlow.
 DATAFLOW is AI company until 2018.
 Not yet ready Technology to me about AI engineer. 
 But I will ready and show you
-
-<p>
