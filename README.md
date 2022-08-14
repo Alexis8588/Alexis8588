@@ -37,4 +37,3 @@ Not yet ready Technology to me about AI engineer.
 But I will ready and show you
 
 Will start iOS Developer
-<p>
