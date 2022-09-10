@@ -41,5 +41,6 @@ Hotdeal DaFarm is upload at 22.08.12
 Maybe that app do not updat if don't happen critical error
 
 Maybe will in charge of DB...
-But always I want to pull in all iOS ans Python
-<p>
+But always I want to pull in all iOS ans Python<p>
+
+<a>http://</a>
