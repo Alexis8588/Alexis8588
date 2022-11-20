@@ -44,3 +44,8 @@ Maybe will in charge of DB...
 But always I want to pull in all iOS ans Python<p>
 
 C# on going - UI greate
+    
+Now, I ordered
+    1. Python, AI 
+    2. C#, UI
+    3. Swift, iOS App
