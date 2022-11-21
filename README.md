@@ -48,4 +48,6 @@ C# on going - UI greate
 Now, I ordered
     1. Python, AI 
     2. C#, UI
+        - Bug Fix...
     3. Swift, iOS App
+        - 
