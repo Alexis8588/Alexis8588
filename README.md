@@ -45,10 +45,14 @@ But always I want to pull in all iOS ans Python<p>
 
 C# on going - UI greate
     
-Now, I ordered
-    1. Python, AI 
+Now, My Working project
+    1. Python, AI
+        - calculate of data by using Permutation Importance.
+        - will finish until Nov, 30, 2022
     2. C#, UI
-        - Bug Fix... 
+        - Bug Fix... by using Visual Studio.
+            - I think, this Visual Studio have many BUG
         - All code fix...
     3. Swift, iOS App
-        - 
+        - Shopping mall..
+        - If I have change, Make program. I will make my Money Manager.
