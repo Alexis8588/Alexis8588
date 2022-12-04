@@ -53,6 +53,7 @@ Now, My Working project
         - Bug Fix... by using Visual Studio.
             - I think, this Visual Studio have many BUG
         - All code fix...
+        - Finish
     3. Swift, iOS App
         - Shopping mall..
         - If I have change, Make program. I will make my Money Manager.
