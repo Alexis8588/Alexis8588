@@ -47,13 +47,4 @@ C# on going - UI greate
     
 Now, My Working project
     1. Python, AI
-        - calculate of data by using Permutation Importance.
-        - will finish until Nov, 30, 2022
-    2. C#, UI
-        - Bug Fix... by using Visual Studio.
-            - I think, this Visual Studio have many BUG
-        - All code fix...
-        - Finish
-    3. Swift, iOS App
-        - Shopping mall..
-        - If I have change, Make program. I will make my Money Manager.
+        - Study MLOps
