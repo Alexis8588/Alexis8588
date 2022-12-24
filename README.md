@@ -48,3 +48,4 @@ C# on going - UI greate
 Now, My Working project
     1. Python, AI
         - Study MLOps
+        - DevOps
