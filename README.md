@@ -50,3 +50,4 @@ Now, My Working project
         - Study MLOps
         - DevOps
         - Processing
+        - sensor tracing
